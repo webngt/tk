@@ -6,6 +6,10 @@
             {
                 "title": "run examples",
                 "text": "step0.md"
+            },
+            {
+                "title": "Регистрация",
+                "text": "signup.md"
             }
         ],
         "intro": {
