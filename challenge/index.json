@@ -10,6 +10,10 @@
             {
                 "title": "Регистрация",
                 "text": "signup.md"
+            },
+            {
+                "title": "Разминка",
+                "text": "run-postgres.md"
             }
         ],
         "intro": {
