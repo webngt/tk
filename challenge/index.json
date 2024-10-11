@@ -18,6 +18,10 @@
             {
                 "title": "SQL запросы",
                 "text": "ddl-sql.md"
+            },
+            {
+                "title": "Создание пары ключей",
+                "text": "keys.md"
             }
         ],
         "intro": {
