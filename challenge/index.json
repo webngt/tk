@@ -4,7 +4,7 @@
     "details": {
         "steps": [
             {
-                "title": "run examples",
+                "title": "Описание",
                 "text": "step0.md"
             },
             {
@@ -26,6 +26,10 @@
             {
                 "title": "Запуск сервиса",
                 "text": "run-service.md"
+            },
+            {
+                "title": "Финальное задание",
+                "text": "reqest.md"
             }
         ],
         "intro": {

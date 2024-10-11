@@ -1,26 +1,14 @@
-Go example клонируем, собираем
+Задание состоит из серии шагов, последовательное выполнение которых приводит к заветному результату
 
-`git clone https://github.com/webngt/literate-spork && \
-    cd literate-spork && \
-    GOOS=linux go build -ldflags="-w -s" -o ../main cmd/app/main.go && \
-    cd -`{{execute}}
+## Содержание
 
-запустим Go example
-
-`./main`{{execute}}
-
-Java example клонируем, собираем
-
-`git clone https://github.com/jabedhasan21/java-hello-world-with-maven.git && \
-    cd java-hello-world-with-maven && mvn package && cd -`{{execute}}
-
-запустим Java example
-
-`cd java-hello-world-with-maven/target && \
-    java -cp jb-hello-world-maven-0.2.0.jar hello.HelloWorld && \
-    cd -`{{execute}}
+1. Регистрация
+1. Разминка - запуск Postgres в Docker
+1. SQL Запросы - подготовка данных в базе данных
+1. Создание пары ключей - выпуск закрытого и открытого ключа
+1. Запуск сервиса в Docker
+1. Финальное задание - отправка подписанных запросов к сервису
 
 
-pip example
+Желаем удачи!!!
 
-`pip install hello-world-python`{{execute}}
