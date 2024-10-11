@@ -21,4 +21,4 @@
 * go
 * python
 
-Вы также можете воспользоваться API помощи в Swagger UI https://swagger
+Вы также можете воспользоваться помощью в [API соревнования](/challenge/doc/swagger/index.html)
