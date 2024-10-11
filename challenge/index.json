@@ -14,6 +14,10 @@
             {
                 "title": "Разминка",
                 "text": "run-postgres.md"
+            },
+            {
+                "title": "SQL запросы",
+                "text": "ddl-sql.md"
             }
         ],
         "intro": {
