@@ -22,6 +22,10 @@
             {
                 "title": "Создание пары ключей",
                 "text": "keys.md"
+            },
+            {
+                "title": "Запуск сервиса",
+                "text": "run-service.md"
             }
         ],
         "intro": {
