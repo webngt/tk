@@ -37,8 +37,7 @@
         },
         "assets": {
             "host01": [ 
-                {"file": "signup.json", "target": "/root"},
-                {"file": "zap.png", "target": "/usr/local/bin/zap", "chmod": "+x"}
+                {"file": "signup.json", "target": "/root"}
             ]
         }
     },
