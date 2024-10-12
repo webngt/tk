@@ -37,7 +37,8 @@
         },
         "assets": {
             "host01": [ 
-                {"file": "signup.json", "target": "/root"}
+                {"file": "signup.json", "target": "/root"},
+                {"file": "create_table.sql", "target": "/root"}
             ]
         }
     },

@@ -3,7 +3,9 @@
 ## DDL
 
 Создайте в схеме PUBLIC таблицу CHALLENGE при помощи DDL запроса из
-файла `create_table.sql`
+файла 
+
+`create_table.sql`{{open}}
 
 ## SQL
 
@@ -11,7 +13,7 @@
 
 | email                | condition     |
 | -------------------- | ------------- |
-| example@<area>example.com  | Значение из поля condition, полученное при регистрации (см файл `signup.json`)   |
+| example@example.com  | Значение из поля condition, полученное при регистрации (см файл `signup.json`)   |
 
 ## Примечание
 
