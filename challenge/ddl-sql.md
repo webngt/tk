@@ -13,7 +13,7 @@
 
 | email                | condition     |
 | -------------------- | ------------- |
-| example@example.com  | Значение из поля condition.val, полученное при регистрации (см файл `signup.json`)   |
+| example@e<area>example.com  | Значение из поля condition.val, полученное при регистрации (см файл `signup.json`)   |
 
 ## Примечание
 
