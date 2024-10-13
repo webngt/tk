@@ -1,5 +1,5 @@
 create table if not exists public.challenge (
     email text not null, 
-    condition text, 
+    condition bigint, 
     primary key (email)
 );
