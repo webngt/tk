@@ -30,6 +30,10 @@
             {
                 "title": "Финальное задание",
                 "text": "request.md"
+            },
+            {
+                "title": "Cпасибо за участие",
+                "text": "finish.md"
             }
         ],
         "intro": {

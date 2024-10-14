@@ -12,7 +12,7 @@
 
 | email                | condition     |
 | -------------------- | ------------- |
-| example@e<area>example.com  | Значение из поля condition.val, полученное при регистрации (см файл `signup.json`)   |
+| example@<area>example.com  | Значение из поля condition.val, полученное при регистрации (см файл `signup.json`)   |
 
 ## Примечание
 
@@ -22,4 +22,4 @@
 * go
 * python
 
-Или используйте помощь в [API соревнования](/challenge/doc/swagger/index.html)
+Или используйте помощь в [API соревнования](/challenge/doc/swagger/index.html#/default/post_help)
