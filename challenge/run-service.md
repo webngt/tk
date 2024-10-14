@@ -2,6 +2,6 @@
 
 Запустите сервис в контейнере при помощи этой команды:
 
-`docker run -p 8080:8080 -v /root:/App --name challenge -d docker.io/alexander894/challenge:0.0.9`{{execute}} 
+`docker run -p 8080:8080 -v /root:/App --name challenge -d docker.io/alexander894/challenge:0.0.10`{{execute}} 
 
 Теперь переходите к следующему шагу.
