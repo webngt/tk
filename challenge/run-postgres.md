@@ -1,6 +1,6 @@
 ## Запуск Postgres в Docker
 
-Выполните в терминале команду для запуска Postgres в Docker контейнере.
+Выполните в терминале команду для запуска Postgres в Docker-контейнере:
 
 `docker run --name postgres -e POSTGRES_PASSWORD=postgres -d postgres`{{execute}}
 
